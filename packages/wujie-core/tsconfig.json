@@ -6,6 +6,7 @@
     "node_modules"
   ],
   "compilerOptions": {
+    "target": "ES6",
     "outDir": "./esm",
     "rootDir": "./src",
     /* 额外的检查 */
